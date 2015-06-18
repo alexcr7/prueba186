@@ -15,6 +15,7 @@ public class areacirc
 	{
 	
 		//HOLAAA
+		//javadoc
 		
 		BufferedReader	leer=new	BufferedReader(new	InputStreamReader(System.in));
 		double r;
