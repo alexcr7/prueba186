@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+// pocholo
 // si usamos void en el tipo de dato en vez de double seria un parametro que te devuelve ya el resultado
 public class areacirc 
 {
